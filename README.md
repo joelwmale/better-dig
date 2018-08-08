@@ -7,7 +7,7 @@
 
 ```bash
 dns() {
-    php ~/Code/dig-cli/artisan dig-dns $1 $2
+    php ~/Code/better-dig/artisan dig-dns $1 $2
 }
 ```
 3. `source ~/.bash_profile`
